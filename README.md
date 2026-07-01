@@ -10,4 +10,4 @@ Pages included:
 - `vitae/` — restricted CV request page
 
 
-To replace the portrait, add your image to `assets/img/` and update the image path in `index.html`.
+Homepage portrait is stored at `assets/img/hongxian-huang-portrait.jpg`.
