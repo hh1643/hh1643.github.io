@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="620" viewBox="0 0 500 620" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder</title>
+  <desc id="desc">A simple placeholder portrait with the initials HH.</desc>
+  <rect width="500" height="620" fill="#f3f3f3"/>
+  <circle cx="250" cy="205" r="88" fill="#d9d9d9"/>
+  <path d="M115 510c16-99 79-157 135-157s119 58 135 157" fill="#d9d9d9"/>
+  <text x="250" y="575" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="44" fill="#777">HH</text>
+</svg>
