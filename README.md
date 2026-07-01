@@ -15,5 +15,5 @@ Homepage portrait is stored at `assets/img/hongxian-huang-portrait.jpg`.
 
 ## Latest small updates
 
-- Home page committee sentence is included at the end of the first introductory paragraph.
+- Home page committee sentence is included at the end of the first profile/introduction paragraph; the bold job-market line follows immediately after it.
 - Vitae page includes Scholarships, Shanghai Jiao Tong University (2017-2020).
