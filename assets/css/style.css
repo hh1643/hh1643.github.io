@@ -144,6 +144,35 @@ a:hover {
   margin-top: 0;
 }
 
+
+.job-market {
+  margin: -4px 0 24px;
+  font-size: 20px;
+}
+
+.section-lead {
+  margin-top: 0;
+  color: #333333;
+}
+
+.cv-page h2 {
+  margin-top: 36px;
+}
+
+.cv-item {
+  margin: 16px 0 20px;
+}
+
+.cv-date {
+  color: var(--muted);
+  font-size: 16px;
+  margin-top: 2px;
+}
+
+.cv-page p {
+  margin: 10px 0;
+}
+
 .research-interests {
   margin-top: 22px;
   padding: 14px 18px;

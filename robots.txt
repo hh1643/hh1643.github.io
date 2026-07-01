@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://hh1643.github.io/hongxian.github.io/sitemap.xml
