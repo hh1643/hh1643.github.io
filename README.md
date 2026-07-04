@@ -1,12 +1,19 @@
 # Hongxian Huang Academic Website
 
-Static academic website for GitHub Pages.
+This is a lightweight static academic website for GitHub Pages.
 
-## Pages
+Pages included:
 
 - `index.html` — homepage
-- `research/` — research and paper abstracts
-- `teaching/` — teaching experience and interests
-- `vitae/` — public CV-style page with a Google Drive request link for the full CV
+- `research/` — research page
+- `teaching/` — teaching page
+- `vitae/` — CV page with education, fellowships, awards, grants, and a Google Drive request link for the full CV PDF
+- `sitemap.xml` and `robots.txt` — basic search-engine discovery files for https://hh1643.github.io/
 
-The site is built as plain HTML/CSS and can be uploaded directly to a GitHub Pages repository.
+Homepage portrait is stored at `assets/img/hongxian-huang-portrait.jpg`.
+
+
+## Latest small updates
+
+- Home page committee sentence is included at the end of the first profile/introduction paragraph; the bold job-market line appears above the subtitle.
+- Vitae page includes Scholarships, Shanghai Jiao Tong University (2017-2020).
