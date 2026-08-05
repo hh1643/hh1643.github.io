@@ -1,11 +1,21 @@
 # Changelog
 
+## v2026.08.05 — August 5, 2026
+
+### Research
+- Removed journal-submission and review-status labels from all entries under **Working Papers**.
+- Retained the **Job Market Paper** designation, paper links, conference presentations, abstracts, and awards.
+- Kept formal publication information for papers listed under **Publications**, including the *Information Systems Research* acceptance.
+
+### Website
+- Updated the research-page modification date and sitemap.
+
 ## v2026.08.03 — August 3, 2026
 
 ### Research
 - Moved “Generative AI, Platform Stances, and Content Creator Behavior” to **Publications** and marked it as accepted for publication at *Information Systems Research*.
-- Updated “Generative AI Search on Content Creation Platforms: Evidence from a Large-Scale Randomized Field Experiment” with its current title, *Marketing Science* review status, and scale–intensity abstract.
-- Updated the statuses of the Marketing Science, Management Science, and Airbnb working papers.
+- Updated “Generative AI Search on Content Creation Platforms: Evidence from a Large-Scale Randomized Field Experiment” with its current title and scale–intensity abstract.
+- Refreshed the ordering and descriptive information for the working papers.
 - Added coauthor and progress information for the research-in-progress project.
 
 ### Vitae

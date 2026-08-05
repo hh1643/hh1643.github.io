@@ -4,7 +4,7 @@ A lightweight static academic website deployed through GitHub Pages.
 
 ## Production URL
 
-- https://hh1643.github.io/
+- https://www.hongxianhuang.com/
 
 ## Main pages
 
@@ -18,10 +18,10 @@ The portrait is stored at `assets/img/hongxian-huang-portrait.jpg`.
 
 ## Deployment
 
-Upload the **contents of this folder** to the root of `hh1643/hh1643.github.io` and publish GitHub Pages from the `main` branch and repository root. The `.nojekyll` file should remain in the root.
+Upload the **contents of this folder** to the root of `hh1643/hh1643.github.io` and publish GitHub Pages from the `main` branch and repository root. The `.nojekyll` and `CNAME` files should remain in the root. The repository can continue to be `hh1643/hh1643.github.io`; the public site uses the custom domain.
 
 ## Current release
 
-`v2026.08.03`
+`v2026.08.05`
 
-This release moves the ISR-accepted paper to Publications, updates the Generative AI Search paper to its current title, status, and scale–intensity abstract, refreshes working-paper statuses, removes education and awards from before the master's degree, adds master's-and-later research experience, and updates SEO metadata and the sitemap.
+This release keeps the ISR-accepted paper in Publications, retains the latest titles and abstracts, removes journal-submission and review-status labels from Working Papers, limits education and experience to the master's level onward, and refreshes the research-page metadata and sitemap.
