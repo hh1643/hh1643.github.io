@@ -1,19 +1,27 @@
 # Hongxian Huang Academic Website
 
-This is a lightweight static academic website for GitHub Pages.
+A lightweight static academic website deployed through GitHub Pages.
 
-Pages included:
+## Production URL
 
-- `index.html` — homepage
-- `research/` — research page
-- `teaching/` — teaching page
-- `vitae/` — CV page with education, fellowships, awards, grants, and a Google Drive request link for the full CV PDF
-- `sitemap.xml` and `robots.txt` — basic search-engine discovery files for https://hh1643.github.io/
+- https://hh1643.github.io/
 
-Homepage portrait is stored at `assets/img/hongxian-huang-portrait.jpg`.
+## Main pages
 
+- `index.html` — homepage and research profile
+- `research/index.html` — publications, working papers, abstracts, and research in progress
+- `teaching/index.html` — teaching experience and interests
+- `vitae/index.html` — education and experience from the master's level onward, awards, grants, and service
+- `sitemap.xml` and `robots.txt` — search-engine discovery files
 
-## Latest small updates
+The portrait is stored at `assets/img/hongxian-huang-portrait.jpg`.
 
-- Home page committee sentence is included at the end of the first profile/introduction paragraph; the bold job-market line appears above the subtitle.
-- Vitae page includes Scholarships, Shanghai Jiao Tong University (2017-2020).
+## Deployment
+
+Upload the **contents of this folder** to the root of `hh1643/hh1643.github.io` and publish GitHub Pages from the `main` branch and repository root. The `.nojekyll` file should remain in the root.
+
+## Current release
+
+`v2026.08.03`
+
+This release moves the ISR-accepted paper to Publications, updates the Generative AI Search paper to its current title, status, and scale–intensity abstract, refreshes working-paper statuses, removes education and awards from before the master's degree, adds master's-and-later research experience, and updates SEO metadata and the sitemap.
