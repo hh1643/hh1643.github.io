@@ -1,5 +1,11 @@
 # Changelog
 
+## v2026.09.15 — September 15, 2026
+
+- Updated the academic profile to identify NYU Stern School of Business.
+- Removed the CV download links and public PDF.
+- Removed the Research in Progress section.
+
 ## v2026.09.14 — September 14, 2026
 
 - Added Designing Generative AI Search and synchronized paper ordering and abstracts with the latest CV.
