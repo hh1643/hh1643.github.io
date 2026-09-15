@@ -1,5 +1,15 @@
 # Changelog
 
+## v2026.09.14 — September 14, 2026
+
+- Added Designing Generative AI Search and synchronized paper ordering and abstracts with the latest CV.
+- Identified the three dissertation essays and updated the ISR paper to forthcoming.
+- Aligned the publications list with the latest CV and retained existing links for the listed papers.
+- Added 2026 presentations, Mays dissertation recognition, and the INFORMS ISS Doctoral Consortium fellowship.
+- Updated the research overview and ongoing directions using the current research statements.
+- Added concrete teaching practices and Marketing and IS teaching interests.
+- Added a directly downloadable copy of the latest CV and refreshed site dates and sitemap.
+
 ## v2026.08.05 — August 5, 2026
 
 ### Research

@@ -22,6 +22,6 @@ Upload the **contents of this folder** to the root of `hh1643/hh1643.github.io` 
 
 ## Current release
 
-`v2026.08.05`
+`v2026.09.14`
 
-This release keeps the ISR-accepted paper in Publications, retains the latest titles and abstracts, removes journal-submission and review-status labels from Working Papers, limits education and experience to the master's level onward, and refreshes the research-page metadata and sitemap.
+This release synchronizes the research profile, paper order and abstracts, teaching approach, and recent awards with the September 2026 CV and statements. The latest CV is available directly at `assets/documents/Hongxian_Huang_CV.pdf`. Working papers omit journal-submission and review-status labels, and the Vitae page retains education and experience from the master’s level onward.
